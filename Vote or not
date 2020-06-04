@@ -1,0 +1,14 @@
+#include<iostream>
+Using namespace std;
+int main ()
+{
+int age;
+cout << "Enter your age =";
+cin >> age;
+if (age >= 18){
+cout << " Eligible to vote"<<endl;
+}
+Else{
+Cout<<" not eligible to vote"<<endl
+return 0;
+}
